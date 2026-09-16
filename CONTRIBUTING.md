@@ -1,5 +1,9 @@
 # Contributing
 
+Lattice-authored skills are drafted and evaluated in the internal sandbox, then
+promoted here after review. Follow
+[the promotion workflow](docs/PROMOTION-WORKFLOW.md) for those changes.
+
 ## Add a skill
 
 1. Copy `templates/SKILL.template.md` into
