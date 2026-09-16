@@ -11,7 +11,8 @@
 5. Keep the main instructions focused. Move detailed material into
    `references/`, deterministic helpers into `scripts/`, and reusable files
    into `assets/`.
-6. Run `npm run check`.
+6. Run `npm run catalog` to update the generated catalog.
+7. Run `npm run check`.
 
 ## Authoring guidelines
 
