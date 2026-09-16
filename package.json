@@ -1,0 +1,20 @@
+{
+  "name": "hr-ai-skills",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs",
+    "catalog": "node scripts/build-catalog.mjs",
+    "catalog:check": "node scripts/build-catalog.mjs --check",
+    "package": "node scripts/package-skills.mjs",
+    "check": "npm run validate && npm run catalog:check && npm run package"
+  },
+  "devDependencies": {
+    "archiver": "8.0.0",
+    "yaml": "2.9.1"
+  }
+}
