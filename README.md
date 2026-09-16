@@ -12,10 +12,10 @@ and can be installed into supported AI coding agents with the
 npx skills add latticehr/hr-ai-skills --skill <skill-name>
 ```
 
-For example, a skill named `draft-performance-review` would use:
+For example:
 
 ```bash
-npx skills add latticehr/hr-ai-skills --skill draft-performance-review
+npx skills add latticehr/hr-ai-skills --skill weekly-updates-workflow
 ```
 
 The CLI asks which supported agent and scope to use. Review a skill and any
@@ -50,4 +50,9 @@ Useful commands:
 - `npm run catalog` regenerates `catalog.json`.
 - `npm run package` creates one installable ZIP per skill in `dist/`.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) before adding or changing a skill.
+## Documentation
+
+- [Initial skill set](docs/INITIAL-SKILLS.md)
+- [Authoring conventions](docs/AUTHORING-CONVENTIONS.md)
+- [Promotion workflow](docs/PROMOTION-WORKFLOW.md)
+- [Contributing](CONTRIBUTING.md)

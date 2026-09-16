@@ -1,5 +1,54 @@
 {
   "schemaVersion": 1,
   "repository": "latticehr/hr-ai-skills",
-  "skills": []
+  "skills": [
+    {
+      "name": "ai-fluency-culture-starter-kit",
+      "description": "Help People teams build a practical, human-centered AI fluency program with readiness questions, competencies, manager practices, performance-review prompts, guardrails, and rollout actions. Use when an organization is moving from informal AI experimentation to responsible, repeatable adoption.",
+      "path": "skills/ai-fluency-culture-starter-kit",
+      "sourceUrl": "https://github.com/latticehr/hr-ai-skills/tree/main/skills/ai-fluency-culture-starter-kit",
+      "rawUrl": "https://raw.githubusercontent.com/latticehr/hr-ai-skills/main/skills/ai-fluency-culture-starter-kit/SKILL.md",
+      "installCommand": "npx skills add latticehr/hr-ai-skills --skill ai-fluency-culture-starter-kit"
+    },
+    {
+      "name": "company-specific-manager-coach",
+      "description": "Coach managers through feedback, development, prioritization, and people conversations using company principles and available employee context. Use before a 1:1, difficult conversation, performance review, or career discussion.",
+      "path": "skills/company-specific-manager-coach",
+      "sourceUrl": "https://github.com/latticehr/hr-ai-skills/tree/main/skills/company-specific-manager-coach",
+      "rawUrl": "https://raw.githubusercontent.com/latticehr/hr-ai-skills/main/skills/company-specific-manager-coach/SKILL.md",
+      "installCommand": "npx skills add latticehr/hr-ai-skills --skill company-specific-manager-coach"
+    },
+    {
+      "name": "grow-track-starter-kit",
+      "description": "Guide HR and People teams through the decisions required to design a useful competency structure in Lattice Grow. Use when an organization is starting, simplifying, or refreshing Grow tracks and needs a thought partner before drafting content.",
+      "path": "skills/grow-track-starter-kit",
+      "sourceUrl": "https://github.com/latticehr/hr-ai-skills/tree/main/skills/grow-track-starter-kit",
+      "rawUrl": "https://raw.githubusercontent.com/latticehr/hr-ai-skills/main/skills/grow-track-starter-kit/SKILL.md",
+      "installCommand": "npx skills add latticehr/hr-ai-skills --skill grow-track-starter-kit"
+    },
+    {
+      "name": "one-on-one-preparation",
+      "description": "Prepare a focused, context-aware one-on-one agenda using goals, updates, feedback, prior meetings, and development context. Use before a recurring 1:1, growth conversation, performance discussion, or follow-up meeting.",
+      "path": "skills/one-on-one-preparation",
+      "sourceUrl": "https://github.com/latticehr/hr-ai-skills/tree/main/skills/one-on-one-preparation",
+      "rawUrl": "https://raw.githubusercontent.com/latticehr/hr-ai-skills/main/skills/one-on-one-preparation/SKILL.md",
+      "installCommand": "npx skills add latticehr/hr-ai-skills --skill one-on-one-preparation"
+    },
+    {
+      "name": "performance-review-drafting-quality-check",
+      "description": "Draft or improve a performance review using goals, updates, feedback, 1:1 context, and prior reviews, then check it for evidence, clarity, balance, bias, and completeness. Use for self, peer, upward, or manager reviews.",
+      "path": "skills/performance-review-drafting-quality-check",
+      "sourceUrl": "https://github.com/latticehr/hr-ai-skills/tree/main/skills/performance-review-drafting-quality-check",
+      "rawUrl": "https://raw.githubusercontent.com/latticehr/hr-ai-skills/main/skills/performance-review-drafting-quality-check/SKILL.md",
+      "installCommand": "npx skills add latticehr/hr-ai-skills --skill performance-review-drafting-quality-check"
+    },
+    {
+      "name": "weekly-updates-workflow",
+      "description": "Draft a clear, evidence-based weekly update from notes, goals, work systems, and Lattice context. Supports user-led, evidence-assist, evidence-first, manager/team roll-up, and optional scheduled-reminder workflows.",
+      "path": "skills/weekly-updates-workflow",
+      "sourceUrl": "https://github.com/latticehr/hr-ai-skills/tree/main/skills/weekly-updates-workflow",
+      "rawUrl": "https://raw.githubusercontent.com/latticehr/hr-ai-skills/main/skills/weekly-updates-workflow/SKILL.md",
+      "installCommand": "npx skills add latticehr/hr-ai-skills --skill weekly-updates-workflow"
+    }
+  ]
 }
