@@ -30,6 +30,10 @@ Read the complete `SKILL.md` and every file it references. Confirm:
 - Links are public and durable.
 - No customer data, private links, internal owners, tracker metadata, fixture
   paths, or eval-harness instructions are present.
+- Security has reviewed changes to MCP access, permissions, writes, or data
+  handling.
+- Privacy, Legal, and People have reviewed sensitive employee-data workflows
+  and employment-related outputs.
 
 ### 3. Copy the runtime package
 
@@ -70,8 +74,11 @@ Then inspect:
 - Include source revision, eval/UAT summary, known limitations, and affected MCP
   tools.
 - Merge only after content and safety review.
+- Update `docs/SKILL-LIFECYCLE.md` with the version and review dates.
 - Create a `v*` tag when downloadable ZIP artifacts should be published as a
   GitHub release.
+- Publish the Lattice Skills Library page from that same merged version. Show
+  its version, last-reviewed date, security guidance, and GitHub source link.
 
 ## Updating an existing public skill
 

@@ -23,13 +23,14 @@ skill's routing trigger, not as generic marketing copy.
 Use only the sections the workflow needs, generally in this order:
 
 1. Purpose and non-negotiable boundaries
-2. `## Intake`
-3. `## Lattice MCP workflow`
-4. `## Non-Lattice workflow`
-5. Domain-specific method, modes, or framework
-6. `## Quality checks`
-7. `## Output`
-8. `## Best-practice foundation`
+2. `## Safety requirements` using the standard template language
+3. `## Intake`
+4. `## Lattice MCP workflow`
+5. `## Non-Lattice workflow`
+6. Domain-specific method, modes, or framework
+7. `## Quality checks`
+8. `## Output`
+9. `## Best-practice foundation`
 
 When a skill supports multiple variants, group them under one top-level section
 with descriptive `###` headings. Infer the appropriate variant from context
