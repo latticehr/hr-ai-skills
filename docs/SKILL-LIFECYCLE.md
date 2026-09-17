@@ -6,7 +6,8 @@ This file is the public approval record for released skills.
 
 - Owning team: Lattice Marketing
 - GitHub maintainer: [@thomasboscatlattice](https://github.com/thomasboscatlattice)
-- Backup owner: [@km-bunge](https://github.com/km-bunge)
+- Backup owner: [@km-bunge](https://github.com/km-bunge) (repository access
+  pending)
 
 The standard review cadence is every six months. A skill expires after twelve
 months unless it is reviewed and given new dates. An expired skill must be

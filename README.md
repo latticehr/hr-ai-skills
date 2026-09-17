@@ -12,7 +12,8 @@ artifacts.
 
 > **Public launch status:** Keep this repository non-public until Legal approves
 > the license and disclaimer and the reviews in
-> [`docs/SKILL-LIFECYCLE.md`](docs/SKILL-LIFECYCLE.md) are complete.
+> [`docs/SKILL-LIFECYCLE.md`](docs/SKILL-LIFECYCLE.md) are complete. The backup
+> owner also needs repository access.
 
 ## Install a skill
 
