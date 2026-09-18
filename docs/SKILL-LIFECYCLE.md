@@ -27,7 +27,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Approved for public release
+- Approval status: approved
 
 ### `company-specific-manager-coach`
 
@@ -36,7 +36,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Approved for public release
+- Approval status: approved
 
 ### `grow-track-starter-kit`
 
@@ -45,7 +45,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Approved for public release
+- Approval status: approved
 
 ### `one-on-one-preparation`
 
@@ -54,7 +54,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Approved for public release
+- Approval status: approved
 
 ### `performance-review-drafting-quality-check`
 
@@ -63,7 +63,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Approved for public release
+- Approval status: approved
 
 ### `weekly-updates-workflow`
 
@@ -72,7 +72,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Approved for public release
+- Approval status: approved
 
 ## Deprecation and withdrawal
 
