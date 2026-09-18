@@ -10,11 +10,6 @@ The Lattice-hosted Skills Library is the customer-facing source for current
 guidance. This repository provides the matching reviewed source and downloadable
 artifacts.
 
-> **Public launch status:** Keep this repository non-public until Legal approves
-> the license and disclaimer and the reviews in
-> [`docs/SKILL-LIFECYCLE.md`](docs/SKILL-LIFECYCLE.md) are complete. The backup
-> owner also needs repository access.
-
 ## Install a skill
 
 ```bash
@@ -33,7 +28,10 @@ bundled scripts before installing it.
 ## Security and responsible use
 
 Lattice MCP uses your existing Lattice login and permissions. A skill does not
-grant access to data or actions that your account cannot already access.
+grant access to data or actions that your account cannot already access. When a
+skill can save or submit in Lattice, that action uses your existing permissions
+the same way MCP does. A skill's "ask first" instruction is guidance to the AI
+tool, not a technically enforced control.
 
 - Review the skill and its requested actions before use.
 - Use only approved AI tools and the minimum employee data needed.
@@ -90,6 +88,11 @@ Useful commands:
 
 ## License
 
-A public-use license and disclaimer are pending Legal approval. Until a license
-is added, no permission is granted to copy, modify, or redistribute this
-repository's contents.
+This repository is licensed under the [MIT License](LICENSE).
+
+These Skills are examples and are not an official Lattice product. They are
+provided “as is” without HR, legal, employment, or compliance advice and for use
+at your own risk. Lattice does not warrant any result produced by a Skill and is
+not responsible for your use of or reliance on any output. You are responsible
+for reviewing outputs and complying with all  applicable laws, policies, and
+agreements.
