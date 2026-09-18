@@ -91,8 +91,8 @@ Useful commands:
 This repository is licensed under the [MIT License](LICENSE).
 
 These Skills are examples and are not an official Lattice product. They are
-provided "as is" without HR, legal, employment, or compliance advice and for use
+provided “as is” without HR, legal, employment, or compliance advice and for use
 at your own risk. Lattice does not warrant any result produced by a Skill and is
 not responsible for your use of or reliance on any output. You are responsible
-for reviewing outputs and complying with all applicable laws, policies, and
+for reviewing outputs and complying with all  applicable laws, policies, and
 agreements.
