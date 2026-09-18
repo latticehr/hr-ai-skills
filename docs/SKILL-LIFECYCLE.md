@@ -6,8 +6,7 @@ This file is the public approval record for released skills.
 
 - Owning team: Lattice Marketing
 - GitHub maintainer: [@thomasboscatlattice](https://github.com/thomasboscatlattice)
-- Backup owner: [@km-bunge](https://github.com/km-bunge) (repository access
-  pending)
+- Backup owner: [@km-bunge](https://github.com/km-bunge)
 
 The standard review cadence is every six months. A skill expires after twelve
 months unless it is reviewed and given new dates. An expired skill must be
@@ -28,7 +27,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Security, Privacy, Legal, and People review pending
+- Approval status: Approved for public release
 
 ### `company-specific-manager-coach`
 
@@ -37,7 +36,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Security, Privacy, Legal, and People review pending
+- Approval status: Approved for public release
 
 ### `grow-track-starter-kit`
 
@@ -46,7 +45,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Security, Privacy, Legal, and People review pending
+- Approval status: Approved for public release
 
 ### `one-on-one-preparation`
 
@@ -55,7 +54,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Security, Privacy, Legal, and People review pending
+- Approval status: Approved for public release
 
 ### `performance-review-drafting-quality-check`
 
@@ -64,7 +63,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Security, Privacy, Legal, and People review pending
+- Approval status: Approved for public release
 
 ### `weekly-updates-workflow`
 
@@ -73,7 +72,7 @@ Legal, and People review.
 - Last content review: 2026-09-17
 - Next review: 2027-03-17
 - Expires: 2027-09-17
-- Approval status: Security, Privacy, Legal, and People review pending
+- Approval status: Approved for public release
 
 ## Deprecation and withdrawal
 
