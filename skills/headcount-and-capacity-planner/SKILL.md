@@ -1,7 +1,6 @@
 ---
 name: headcount-and-capacity-planner
 description: Model staffing and workload options against business goals. Builds a baseline of roles, open requisitions and committed work, compares flat, growth and constrained scenarios with stated assumptions, ties each requested role to a goal or workload driver, sequences requests, and drafts a finance submission, a plan-versus-actual tracker and a reforecast note. Use when a manager, leader, executive or HR partner is building, defending, reforecasting or tracking a headcount or capacity plan for a team or org. Not for choosing who stays or goes, not a restructure plan and not a leadership people brief.
-sensitive: true # headcount plans sit next to workforce reduction decisions, and the inputs can include leave, departures and team-level workload
 ---
 
 # Workforce Capacity Scenario Planner

@@ -7,8 +7,6 @@ description: Plan and draft the sequenced communications for a significant organ
 
 Help an executive, HR leader or manager of managers announce a hard change so that people hear it in the right order, from the right person, with an honest account of what is known and what is not. The skill drafts and rehearses. Leaders and HR decide what can be said and when, and legal signs off on anything about roles or terms. Nothing is sent, posted or scheduled by the skill.
 
-<!-- sensitive: false. Kelley Bunge decided on 2026-10-19 that every skill in this session is sensitive: false, even though this skill touches reorganizations and reductions. The guardrails below carry the care. -->
-
 ## Safety requirements
 
 - Use only sources the user explicitly authorizes and retrieve the minimum data needed.

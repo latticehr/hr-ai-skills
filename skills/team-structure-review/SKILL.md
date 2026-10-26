@@ -1,7 +1,6 @@
 ---
 name: team-structure-review
 description: Plan how two or more teams merge, or one team splits, as a structure question. Maps the current teams, lays out two to three structure options with trade-offs and transition cost, assigns responsibilities and decision owners so nothing is orphaned or doubled, aligns working norms and the recurring meeting load, runs an equity check before any person is discussed, and drafts a transition timeline and handoff list. Use when a manager, leader or HR partner says teams are merging, a team is being split, a lead layer may be added or reports may be rebalanced. Never says who should lead, move or stay. Not for company-wide reorganizations, acquisitions or taking over a team.
-# sensitive: false was set by Kelley Bunge on 2026-10-19 for every skill in this build session, overriding the usual rule for skills that touch role changes. The linter may warn, and that is accepted.
 ---
 
 # Team Merge / Split Planner

@@ -117,6 +117,6 @@ Deliver what the mode calls for. The plan, the listening agenda with the "what I
 
 - New manager 90-day plan: https://lattice.com/articles/new-managers-90-day-plan
 - First-time manager checklist: https://lattice.com/templates/first-time-manager-checklist
-- Mistakes new managers make: https://lattice.com/articles/12-mistakes-new-managers-make-and-how-to-prevent-th
+- The 5 most important things new managers can do on day one: https://lattice.com/articles/new-managers-here-are-the-5-most-important-things-you-can-do-day-one
 - How to train new managers: https://lattice.com/articles/how-to-train-new-managers
 - Leaders on their first manager job: https://lattice.com/articles/leaders-on-their-first-manager-job
